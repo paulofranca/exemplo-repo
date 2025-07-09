@@ -1,6 +1,35 @@
 Baudrate 9600
 #COM COM6
 COM COM4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #COM COM20
 #Baudrate 38400
 #COM COM21
